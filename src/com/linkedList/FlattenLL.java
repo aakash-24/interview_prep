@@ -1,4 +1,5 @@
 package com.linkedList;
+//https://www.geeksforgeeks.org/flattening-a-linked-list/
 
 /*Input : 5 -> 10 -> 19 -> 28
         |    |     |     |
